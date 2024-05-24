@@ -1,0 +1,13 @@
+.card {
+    background-color: rgb(244, 246, 249);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 8px;
+    border-width: 10px;
+}
+.card-title {
+text-align: center;
+font-size:x-large;
+color: rgb(103, 179, 37);
+}
+
